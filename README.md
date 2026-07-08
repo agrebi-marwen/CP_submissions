@@ -15,9 +15,13 @@
   I will keep sharing the solutions I make untill I finish my journey from Zero to Hero !
 
 ## What I learned so far :
-  Hash Sets : 'unordered_set' a collection used to store unique elements where duplicates are strictly forbidden. 
-        Methods : .count() , .insert()
 
+  Used mostly in searching and verifying : 
+  
+    - Hash Sets : 'unordered_set' a collection used to store unique elements where duplicates are strictly forbidden. 
+          Methods : .count() , .insert()
+    - Hash Map : 'unordered_map' you give it a specific Key , and it instantly points you to its corresponding Value.
+          Methods : set[key] = value
 ---
 
 ## Repository structure
