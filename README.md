@@ -10,12 +10,13 @@
 
 ---
 
-## How GitHub Sync works
+## I love Competitive Programming 
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+  I will keep sharing the solutions I make untill I finish my journey from Zero to Hero !
+
+## What I learned so far :
+  Hash Sets : 'unordered_set' a collection used to store unique elements where duplicates are strictly forbidden. 
+        Methods : .count() , .insert()
 
 ---
 
@@ -58,14 +59,6 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Settings
-
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
 
 ---
 
